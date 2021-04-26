@@ -1,4 +1,4 @@
 หากไม่สามารถ Run ได้ต้อง Set ตำแหน่งของไฟล์ใหม่ดังนี้
-1.GuiTest1.py \n
+1.GuiTest1.py 
 2.โปรแกรมโพสขายสินค้าอัตโนมัติDemo.bat
 3.Test-and-run.bat
